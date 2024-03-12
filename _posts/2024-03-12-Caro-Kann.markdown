@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Caro-Kann"
+categories: jekyll update
+---
+
+## Caro-Kann
+# Content [from](https://www.chess.com/openings/Caro-Kann-Defense)
+The Caro-Kann Defense is known above all for its solidity. The defining move, 1...c6, is the fourth most popular reply to 1.e4 and nearly twice as common as the number five move. It prepares for 2...d5 without blocking in the light-squared bishop, which is considered the main drawback of its cousin the French Defense (1.e4 e6). A standby for positional players at almost every level, the Caro-Kann was a particular favorite of world champion GMAnatoly Karpov.
+TheCaro-Kannbegins with1.e4 c6, with most variations continuing2.d4 d5. Either one of these is usually considered the starting position for the Caro-Kann.
+The Caro-Kann is a somewhat complicated opening with several respected variations. On White's second move, 2.d4 is by far the most common. The main exception to know is the Two Knights Defense (1.e4 c6 2.Nf3 d5 3.Nc3).
+White's third move is where the Caro really branches out. White has no fewer than five popular choices here.
+3.Nc3 is White's most common choice by a narrow margin over 3.e5. Black almost always captures with 3...dxe4, with White making the obvious reply 4.Nxe4. White can also reach these lines with 3.Nd2 when 3...dxe4 4.Nxe4 transposes.
+From here, the game can go in several respected directions but 4...Bf5 is Black's most popular, and this is the Classical Variation. Black very reasonably develops the light-squared bishop, which is why the move ...e6 has been avoided to this point in the first place. White can, and often does, chase the bishop, but this weakens the kingside.
+The Karpov Variation is 4...Nd7. It is named after—no surprise here—Anatoly Karpov. Black prepares to develop the other knight to f6, but without having to recapture with a pawn.
+That said, this move isn't absolutely necessary, and White is under no obligation to take on f6. In fact, after 5.Nf3 Nf6, White plays 6.Ng3 almost as often as 6.Nxf6 and scores far better with it, in part because the bishop remains boxed in on c8, just by the knight on d7 instead of a pawn on e6.
+Almost as common as 4...Nd7 is the immediate 4...Nf6, even though it results in doubled pawns.
+White can play 5.Ng3 but 5.Nxf6 is the most popular and most challenging move. Black can capture towards the center with 5...gxf6, known as the Bronstein-Larsen Variation (after GMsDavid BronsteinandBent Larsen), or away from the center with 5...exf6, the Tartakower Variation (after GMSavielly Tartakower). The former is a more dynamic choice in exchange for a shattered pawn structure. The latter, while obviously also resulting in doubled pawns, is still more solid and less compromised. Both moves are about equally popular.
+White does not have to play Nc3 on move three. The aptly named Advance Variation, 3.e5, is White's sharpest and best-scoring continuation. GMVladimir Kramnikused it to retain his classical world champion title against GMPeter Lekoin the 14th and final game of their 2004 match.
+The three most popular continuations after 1.e4 c6 2.d4 d5 3.e5 Bf5 all score well despite taking different approaches to the position: 4.Nc3 is the Shirov Variation with the main idea of playing g4 and advancing on the kingside; 4.h4 is the Tal Variation and takes a different path to kingside expansion; and 4.Nf3 is the Short Variation, aiming for a more positional struggle.
+When White captures on d5, it is known as the Exchange Variation. After the obvious 3...cxd5--if planning on recapturing with the queen, Black should have just played the Scandinavian (1...d5)--White can either play 4.Bd3 or the much sharper 4.c4 (as seen below).
+When White plays 4.Bd3 the goal is a quiet game. It is much rarer at higher levels than the other main move because Black gets a good game.
+The latter of these moves is known as the Panov-Botvinnik Attack, with similar positions to the Queen's Gambit. White usually gets anisolated queen's pawn.
+The Fantasy Variation, 3.f3, comes in a clear fifth but the move scores well. White prepares to recapture on e4 with the f-pawn, thus maintaining two pawns in the center instead of just one, a much different pawn structure than Caro players are usually going for.
+The Advance Variation scores 43% for White against 30% for Black. The Fantasy Variation, at 44% to 33%, fares almost as well, but much of its value is as a surprise weapon. The Advance Variation, meanwhile, is a move that Black must be prepared for, and it still scores well. It is also very sharp with relatively few draws compared to most Caro-Kann lines.
+Also a surprisingly effective way for White to meet the Caro-Kann is with 2.c4 instead of 2.d4. It may be an even better surprise weapon than the Fantasy Variation, as White still wins 44% of the time but only loses 23%. A lot of times 2.c4 will transpose into the Panov-Botvinnik Attack.
+The Caro-Kann is named for Horatio Caro and Marcus Kann, two 19th century players who analyzed it. Its first appearance in a published game camebetween two unknown players in 1845, while the analysis by Caro and Kann came in the 1880s.
+Like many openings, the Caro-Kann did not gain much respect until the 20th century. At the 1927 New York tournament, world championJose Raul Capablancaused it as his main weapon against 1.e4 and scored two wins with three draws and no losses.
+In his 1958 rematch with GMVassily Smyslov, GMMikhail Botvinnikbecame the first player to use the Caro-Kann in a match for the world championship, and he would do so again in both his championship matches against GMMikhail Talfrom 1960-61. GMTigran Petrosianalso used it to defend his title against GMBoris Spasskyin 1966.
+By then, the Caro-Kann was well established as one of Black's most viable options against 1.e4. GMMagnus Carlsenused it against GMViswanathan Anandin the 2013 World Championship. The Caro-Kann is currently a favorite of GMAlireza Firouzja.
+Of the five times Capablanca played the Caro-Kann at New York 1927, none is more famous than his dismantling of Aron Nimzowitsch's Advance Variation.
+Bronstein showed how dangerous his 5...gxf6 variation could be in this win against Nikolay Bakulin in 1965.
+The fourth move 4...Nd7 shone in 1973 when Petrosian crushed Tal with it.
+The Caro-Kann is a great option for positional players. While some lines can get tactical, the opening is fundamentally solid. Learn more about it with theChess.com Lessonfrom GMSam Shanklandor by exploring ourMaster Gamesdatabase.
+
+---
+

@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Kings Indian Attack"
+categories: jekyll update
+---
+
+## Kings Indian Attack
+# Content [from](https://www.chess.com/openings/Kings-Indian-Attack)
+The fastest way to fianchetto the king's bishop and castle is the King's Indian Attack (KIA), the reverse of the King's Indian Defense. White just plays Nf3, g3, Bg2, and 0-0, before seeing how to proceed.
+The KIA also refers to a plethora of systems for White involving pawns on d3, g3, and e4; knights on d2 and f3; a kingside fianchetto and kingside castling. This KIA setup can be used after 1.e4  against the Sicilian Defense, French Defense, Caro-Kann Defense, and many other popular openings for Black. White often plays for a kingside attack with Black trying to win on the queenside.
+The King's Indian Attack, when referring to a specific opening, generally starts with either1.Nf3 d5 2.g3or 1.Nf3Nf6 2.g3.
+A kingside fianchetto with Nf3 is an idea in several other openings as well, most notably the French Defense variation 1.e4 e6 2.d3, but also in the Sicilian, Caro-Kann, and others.
+There are many variations of the KIA, but the main question regardless is Black's decision with the c-pawn: Play ...c6 to blunt the fianchettoed bishop's diagonal, or play ...c5 to gain extra queenside space? This choice also determines where Black's b8-knight will go: behind the c-pawn on c6 or to d7.
+Oftentimes Black will play not only ...c5 but ...b5 and ...a5 and try to win on the queenside before White can breakt hrough on the kingside, as in the following possible move order.
+Some specific early variations are below.
+Whichever order Black plays the first two moves ...Nf6 and ...d5, it's the Yugoslav Variation. It's the most common way to meet Nf3 and g3 from White, both developing and beginning to claim the central space that White has foregone.
+The Keres Variation, named for GMPaul Keres, is mainly a move order subtlety where Black develops the c8-bishop as quickly as possible, to be followed up with ...Nd7 and ...c6.
+Black can also immediately announce the intention to claim as much space as possible with ...c5 on move two. It essentially creates a reverse King's Indian Defense and play often continues in that vein with something like3.Bg2 Nc6 4.O-O e5or4...Nf6.
+Like several hypermodern openings, the King's Indian Attack was first known to be played by Bonnerjee Mohishunder in his games with John Cochrane in Calcutta (Kolkata), India in the 1850s, but did not become more widely popular until the 1920s.
+The heyday of the KIA was the 1960s when GMsPal BenkoandBobby Fischerwon regularly with it, as IMJeremy Silmandiscusseshere. Although now less popular at the GM level, it can be used when someone desperately needs a win as White, and remains a good option for more casual players.
+==========
+The Polish Opening, also known as the Sokolsky or the Orangutan, is the opening 1.b4 by White. Although only the ninth-most popular opening move, it's a respectable option with some devoted followers. Instead of playing in the center, White fights for an advantage on the queenside.
+The Polish is very distinctive and once 1.b4 is played, a game is in the Polish Opening with little chance at transposing into something else.
+Black has several viable options against the Polish. Here are the most popular.
+Black's most common response is 1...e5, immediately attacking the b-pawn. Often a trade follows with 2.Bb2 Bxb4 3.Bxe5. Although this trade's a central Black pawn for a wing White pawn, Black scores very well. Black does less well defending the e-pawn with either 2...d6 or 2...f6 but both are playable.
+Black's next two most popular moves are 1...d5 and 1...Nf6 and they often transpose into the same line, the Schiffler-Sokolsky. Black has more central space while White gains further queenside space by pushing the b-pawn again. The most common move order is given below.
+
+The idea behind this move, the Outflank Variation, is to attack the b-pawn with 2...Qb6.
+The two players most associated with 1.b4 are Polish GMSavielly Tartakower(1887-1956) and Soviet IM Alexey Sokolsky (1908-1969), hence the common names for the opening: the Polish (more common in the West) and the Sokolsky (more so in Russian sources). The third name, the Orangutan, is also thanks to Tartakower. During the 1924 New York tournament he visited the Bronx Zoo and something inspired him to play the move and name it for that primate.
+It was an obscure 19th-century British player, however, who first played 1.b4: Arthur Skipworth in 1868, a game Skipworth won. Maybe we don't call it the Skipworth Opening because that makes it sound like it's worth skipping.
+Although rare, the Polish Opening isn't bad and it can lead to unique positions that are interesting to play.
+
+---
+
+# Content [from](https://en.wikipedia.org/wiki/King%27s_Indian_Attack)
+TheKing's Indian Attack(orKIA) is achess openingsystemwhere White adopts the setup more commonly seen being played by Black in theKing's Indian Defence. The King's Indian Attack is characterised by the following moves: the central pawns are developed to e4 and d3, the knights are developed to d2 and f3, theking's bishopisfianchettoedat g2 following the g-pawn's move to g3, and White castles kingside.
+This pattern can either be achieved via a 1.e4move order(typically against either theFrench Defenceor aSicilian Defencewith a subsequent ...e6) or as a universal system starting with 1.Nf3.
+The use of the King's Indian Attack atgrandmasterlevel was originally an offshoot from the widespread use of theKing's Indian Defencein the 1950s. As grandmasters began to appreciate the advantages of playing the King's Indian Defence as Black, the use of the same system as White, with an extra move in hand, inevitably became attractive.
+Prominent players who have employed the King's Indian Attack includeBobby Fischer(mostly in his early career),Mikhail Botvinnik,Vasily Smyslov,Tigran Petrosian,Leonid Stein,Rafael Vaganian,Ljubomir Ljubojevic,Gregory Kaidanov,Igor Glek,Alexander Morozevich,Victor Bologan, andLevon Aronian. The use of the KIA was also advocated by the prominent chess trainer IMMark Dvoretsky,[1]who also employed the system in his own games.
+Today the King's Indian Attack is relatively uncommon at grandmaster level. The most frequent high-level practitioner is Egyptian grandmasterBassem Amin. The KIA is popular at the club level, however, because of its system-like elements, repeatablemiddlegameplans, and the ability to launch a kingside attack from a stable position.
+In the King's Indian Attack, White uses the same setup adopted by Black in theKing's Indian Defence. Due to White's extratempo, however, the nature of the subsequent play is often different from that of a typical King's Indian Defence. The King's Indian Attack is most frequently employed against Black setups including an early ...e6, and in these situations Black is effectively a move down in a theoretically unimportant line of the King's Indian Defence. For example, after 1.e4 e6 2.d3 d5 3.Nd2 c5 4.Ngf3 Nf6 5.g3 Nc6 6.Bg2 Be7 7.0-0 0-0 8.Re1 (see diagram) Black is playing the White side of a very tame line of the King's Indian Defence where thequeen's bishopon c8 is trapped behind thepawn chain. If Black were to attempt to resolve this situation by playing a subsequent e6-e5 they would then find themselvestwomoves down in a standard mainline position from the King's Indian Defence. This illustrates the central dilemma faced by Black in standard Kings Indian Attack lines.
+The KIA is aclosed, strategic opening that presents its practitioner with common themes and tactics and a comfortable middlegame against various defences. White's most common plan involves the central pawn push e4–e5, leading to a central bind,kingsidespace, and practical  attacking chances against the kingside-castledblack king. White's strategy differs from standardFrench Defencelines because the e5-pawn will be defended by pieces (Nf3, Re1, Bf4, and possibly Qe2) rather than by pawns, thus avoiding the pawn weakness on d4 which is Black's usual target in the French.
+The King's Indian Attack most frequently arises against the French Defence using the move order 1.e4 e6 2.d3 d5 3.Nbd2 (to avoid an exchange of queens after 3...dxe4) 3...c5. Identical lines can arise via aSicilian Defencemove order, typically via 1.e4 c5 2.Nf3 e6 3.d3 and a subsequent Nbd2. If Black plays a Sicilian variation with 2...d6 or 2...Nc6, White can still continue with the King's Indian Attack setup, but in these cases it would be considered less effective (Black will either have a pawn on d6, meaning that the characteristic pawn push e4–e5 will not create a bind, or a pawn on e5, preventing e4-e5 altogether).
+After 1.e4 e6 2.d3 d5 3.Nbd2 c5, the game might typically proceed as follows: 4.Ngf3 Nf6 5.g3 Nc6 6.Bg2 Be7 7.0-0 0-0 8.Re1 (see diagram in previous section). White will now look to play e4–e5, cramping Black, and then proceed with moves such as Nf1, Bf4, Qe2, h4, N1h2 (or Ne3), h5, g4 (or Ng4) with a kingside attack. Note that the position after 8.Re1 could also have been obtained via a 1.Nf3 move order (e.g. 1.Nf3 d5 2.g3 Nf6 3.Bg2 c5 4.0-0 Nc6 5.d3 e6 etc.).
+The Kings Indian Attack setup is also sometimes employed against theCaro–Kann Defence, e.g. 1.e4 c6 2.d3 d5 3.Nbd2 e5 4.Ngf3 Bd6 5.g3 etc. Some practitioners at club level, determined to use the KIA as a system, may even use the setup after 1.e4 e5 (giving a reversedPirc Defence), although this cannot be regarded as a genuine attempt to secure an advantage from the opening.
+When employed via a 1.Nf3 move order, play sometimes develops along the lines of the Franco-Sicilian type structures considered above. Alternatively, Black can look to develop the c8-bishop outside of the pawn chain, either to Bg4 (the Keres System, e.g. 1.Nf3 d5 2.g3 Nf6 3.Bg2 c6 4.0-0 Bg4) or to Bf5 (giving a reversedLondon System).
+Black can also develop along the lines typically adopted by White in the King's Indian Defence: e.g. 1.Nf3 d5 2.g3 c5 3.Bg2 Nc6 4.0-0 e5 5.d3 Nf6. This line is referred to as the Reversed King's Indian.
+
+---
+
