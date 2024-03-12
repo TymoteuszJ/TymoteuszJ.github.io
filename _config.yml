@@ -21,8 +21,8 @@ title: Chess Openings
 email: #
 description: >- # this means to ignore newlines until "baseurl:"
  This site tries to explain some of chess openings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://tymoteuszj.github.io/about" # the subpath of your site, e.g. /blog
+url: "https://tymoteuszj.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: #
 github_username:  #
 
