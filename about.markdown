@@ -14,6 +14,6 @@ Otwarcia szachowe to początkowe posunięcia partii szachowej, które kształtuj
 
 Zapraszam do zapoznania się z moją listą otwarć szachowych:
 
-- [Lista Otwarć szachowych](link_do_listy_otwarcia)
+- [Lista Otwarć szachowych](https://tymoteuszj.github.io/)
 
 Odkryj różnorodność możliwości i strategii, jakie oferuje świat otwarć szachowych!
