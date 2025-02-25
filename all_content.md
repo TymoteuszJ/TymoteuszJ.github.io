@@ -4,6 +4,8 @@ title:  "Adelaide Counter-Gambit"
 collection: my_collection_name
 ---
 
+## All openings
+
 ## Adelaide Counter-Gambit
 # Content [from](https://www.chess.com/blog/GM-NiruMalVij/openings-explained-the-adelaide-counter-gambit)
 
