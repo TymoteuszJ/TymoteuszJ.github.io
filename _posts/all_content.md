@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Adelaide Counter-Gambit"
+title:  "All openings2"
 collection: my_collection_name
 ---
 
